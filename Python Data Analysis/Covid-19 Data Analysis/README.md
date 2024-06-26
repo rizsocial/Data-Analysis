@@ -9,5 +9,5 @@ In this project, I used Python to analyze a comprehensive COVID-19 dataset, aimi
 - Joining two datasets to enrich the analysis with additional information.
 - Studying correlations between COVID-19 metrics and other factors such as GDP, social support, healthy life expectancy, and freedom to make life choices.
 
-[COVID-19 Data Analysis](https://github.com/rizsocial/Data-Analysis/blob/main/Python%20Data%20Analysis/Covid-19%20Data%20Analysis/covid19%20data%20analysis%20notebook.ipynb)
+[COVID-19 data analysis](https://github.com/rizsocial/Data-Analysis/blob/main/Python%20Data%20Analysis/Covid-19%20Data%20Analysis/covid19%20data%20analysis%20notebook.ipynb)
 
