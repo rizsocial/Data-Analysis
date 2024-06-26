@@ -1,4 +1,4 @@
-### Sales Data Analysis Project in Excel
+### Sales Data Analysis
 
 - Analyzed sales data for an office chair company, focusing on cleaning raw data and applying discounts to final prices.
 - Utilized Excel functions including VLOOKUP for data lookup and validation.
