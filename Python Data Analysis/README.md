@@ -24,6 +24,8 @@ In this project, I used Python to analyze a comprehensive COVID-19 dataset, aimi
 
 [COVID-19 data analysis](https://github.com/rizsocial/Data-Analysis/blob/main/Python%20Data%20Analysis/Covid-19%20Data%20Analysis/covid19%20data%20analysis%20notebook.ipynb)
 
+[<a href="https://github.com/rizsocial/Data-Analysis/blob/main/Python%20Data%20Analysis/Covid-19%20Data%20Analysis/1.png" target="_blank"><img src="https://github.com/rizsocial/Data-Analysis/raw/main/Python%20Data%20Analysis/Covid-19%20Data%20Analysis/1.png" width="200"></a>](https://github.com/rizsocial/Data-Analysis/blob/main/Python%20Data%20Analysis/Covid-19%20Data%20Analysis/1.png)
+
 ## 3. Expected return and risk analysis using CAPM
 
 **Project description:**
