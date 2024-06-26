@@ -9,3 +9,5 @@ In this project, I conducted a comprehensive data analysis of IMDb movie dataset
 - Identifying trends and correlations within the movie data to understand what makes a movie successful.
 
 [IMDb Movie Data Analysis](https://github.com/rizsocial/Data-Analysis/blob/main/Python%20Data%20Analysis/IMDb%20movie%20data%20analysis/The%20Notebook.ipynb)
+
+https://github.com/rizsocial/Data-Analysis/blob/main/Python%20Data%20Analysis/IMDb%20movie%20data%20analysis/The%20Notebook.ipynb
