@@ -1,6 +1,6 @@
 ### Power BI Project: Pizza Sales Analysis
 
-[Pizza Sales Report](https://github.com/rizsocial/Data-Analysis/blob/main/Data%20Analysis%20with%20Power%20BI/Pizza%20Sales%20Report/Pizza%20Sales%20Report.pbix))
+[Pizza Sales Report](https://github.com/rizsocial/Data-Analysis/blob/main/Data%20Analysis%20with%20Power%20BI/Pizza%20Sales%20Report/Pizza%20Sales%20Report.pbix)
 
 
 In this project, I developed some very interesting insights into pizza sales for a company:
