@@ -1,0 +1,100 @@
+---
+title: "DPLYR Introduction"
+author: "Shakespeare"
+date: "September 3, 2019"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+
+```{r}
+library(dplyr)
+library(ggplot2)
+```
+
+
+#Quick look at dataframes
+
+```{r pressure, echo=FALSE, fig.cap="A caption", out.width = '100%'}
+knitr::include_graphics("df.png")
+dim(mpg) #dimensions
+names(mpg)
+```
+
+
+#Filter
+```{r}
+head(mpg)
+str(mpg)
+```
+```{r}
+hist(mpg$cty)
+filter(mpg, cty>25)
+filter(mpg,cty>25 & model == 'civic')
+```
+
+
+#Select
+```{r}
+select(mpg, manufacturer)
+names(mpg)
+select(mpg,c(7,8)) #c=concatenate columns 7 and 8 (drv and cty)
+```
+
+#Pipe - for loop
+```{r}
+mpg%>%
+  filter(cty>25)%>%
+  select(c(7,8))
+
+names(mpg)
+
+#what model of car gets worst gas mileage (under 15 mpg)
+mpg%>%
+  select(2,8)%>%
+  filter(cty < 15)
+
+mpg%>%
+  filter(cty<15)%>%
+  select(2)
+```
+
+
+
+#Group By
+```{r}
+names(mpg)
+select(mpg,7)
+
+mpg%>%
+  group_by(drv)%>%
+  summarise(n=n(), avgcity=mean(cty,na.rm=T)) #na.rm=T to take out the nas
+
+
+```
+
+
+#Summarise
+also covered in previous step
+
+#Mutate
+allows us to create new columns
+```{r}
+mpg%>%
+  group_by(drv)%>%
+  summarise(n=n(), avgcity=mean(cty,na.rm=T))%>%
+  mutate(test=n*avgcity)
+```
+
+
+#Arrange
+```{r}
+mpg%>%
+  mutate(conversion=displ*.16)%>%
+  arrange(cty)%>% #sort by city
+  arrange(desc(cty)) #sort by city desc
+
+```
