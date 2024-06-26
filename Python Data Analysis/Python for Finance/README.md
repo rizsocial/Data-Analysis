@@ -1,6 +1,6 @@
 ## Expected return and risk analysis using CAPM
 
-**Project Description:**
+**Project description:**
 In this project, I used Python to calculate the expected return and risk of different securities using the Capital Asset Pricing Model (CAPM). Key steps and findings include:
 
 - Utilized Pandas, NumPy, and other libraries for data analysis.
