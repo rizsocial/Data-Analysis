@@ -9,7 +9,7 @@ Thank you for viewing my Excel data analysis portfolio.
 - Created pivot tables to summarize total sales by sales representative and chairs sold monthly.
 - Generated insights into sales performance and trends, supporting strategic decision-making within the company.
 
-[Sales Data Analysis Project](https://github.com/rizsocial/Data-Analysis/tree/main/Excel%20Data%20Analysis/Sales%20Data%20Analysis)
+[Sales Data Analysis](https://github.com/rizsocial/Data-Analysis/tree/main/Excel%20Data%20Analysis/Sales%20Data%20Analysis)
 
 Bank Loan Analysis
 
@@ -20,4 +20,4 @@ Bank Loan Analysis
 - **KPIs:** Differentiated 'Good Loans' and 'Bad Loans' based on application status and monitored their financial impacts.
 - **Visualizations:** Utilized charts to visualize trends, regional analysis, and loan term distributions.
 
-For detailed insights, visit [Bank Loan Report project](https://github.com/rizsocial/Data-Analysis/tree/main/Excel%20Data%20Analysis/Bank%20Loan%20Report).
+For detailed insights, visit [Bank Loan Report](https://github.com/rizsocial/Data-Analysis/tree/main/Excel%20Data%20Analysis/Bank%20Loan%20Report).
