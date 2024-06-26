@@ -11,6 +11,8 @@ Thank you for viewing my Excel data analysis portfolio.
 
 For detailed insights, visit [Bank loan report](https://github.com/rizsocial/Data-Analysis/tree/main/Excel%20Data%20Analysis/Bank%20Loan%20Report).
 
+<a href="https://github.com/rizsocial/Data-Analysis/blob/main/Excel%20Data%20Analysis/Bank%20Loan%20Report/1.png" target="_blank"><img src="https://github.com/rizsocial/Data-Analysis/raw/main/Excel%20Data%20Analysis/Bank%20Loan%20Report/1.png" width="200"></a>
+
 ### 2. Sales data analysis
 
 - Analyzed sales data for an office chair company, focusing on cleaning raw data and applying discounts to final prices.
@@ -19,3 +21,5 @@ For detailed insights, visit [Bank loan report](https://github.com/rizsocial/Dat
 - Generated insights into sales performance and trends, supporting strategic decision-making within the company.
 
 [Sales data analysis](https://github.com/rizsocial/Data-Analysis/tree/main/Excel%20Data%20Analysis/Sales%20Data%20Analysis)
+
+<a href="https://github.com/rizsocial/Data-Analysis/blob/main/Excel%20Data%20Analysis/Sales%20Data%20Analysis/1.png" target="_blank"><img src="https://github.com/rizsocial/Data-Analysis/raw/main/Excel%20Data%20Analysis/Sales%20Data%20Analysis/1.png" width="200"></a>
