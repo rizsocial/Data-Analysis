@@ -1,5 +1,5 @@
 ### Bank Loan Report
-![Download report](
+![View/Download report](https://github.com/rizsocial/Data-Analysis/blob/main/Excel%20Data%20Analysis/Bank%20Loan%20Report/PROJECT.xlsx)
 
 - **Problem Statement:** Created a comprehensive report to monitor and assess the bank's lending activities and performance.
 - **Key Insights:** Analyzed total loan applications, funded amounts, and received payments monthly.
