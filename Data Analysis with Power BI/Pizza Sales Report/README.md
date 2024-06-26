@@ -1,4 +1,4 @@
-### Power BI Project: Pizza Sales Analysis
+### Pizza Sales Analysis
 
 [View/Download Report](https://github.com/rizsocial/Data-Analysis/blob/main/Data%20Analysis%20with%20Power%20BI/Pizza%20Sales%20Report/Pizza%20Sales%20Report.pbix)
 
