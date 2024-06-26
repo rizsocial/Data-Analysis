@@ -7,4 +7,5 @@ In this project, I uncovered several intriguing insights into the pizza sales fo
 
 ## 2. Financial data analysis
 - Performed an in-depth financial data analysis to highlight key metrics including total profit, units sold, gross sales, and COGS. Analyzed profit distributions by country, product, and customer segment, and developed a matrix identifying the most and least profitable products and months, facilitating strategic decision-making.
+
 [Financial data analysis](https://github.com/rizsocial/Data-Analysis/tree/main/Data%20Analysis%20with%20Power%20BI/Financial%20Data%20Analysis)
