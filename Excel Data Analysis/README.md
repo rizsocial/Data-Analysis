@@ -2,7 +2,7 @@ Thank you for viewing my Excel data analysis portfolio.
 
 # Contents:
  
-### 1. Sales Data Analysis Project in Excel
+### 1. Sales Data Analysis
 
 - Analyzed sales data for an office chair company, focusing on cleaning raw data and applying discounts to final prices.
 - Utilized Excel functions including VLOOKUP for data lookup and validation.
