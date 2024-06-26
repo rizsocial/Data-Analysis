@@ -9,6 +9,8 @@ In this project, I conducted a comprehensive data analysis of IMDb movie dataset
 
 [IMDb movie data analysis](https://github.com/rizsocial/Data-Analysis/blob/main/Python%20Data%20Analysis/IMDb%20movie%20data%20analysis/The%20Notebook.ipynb)
 
+<a href="https://github.com/rizsocial/Data-Analysis/blob/main/Python%20Data%20Analysis/IMDb%20movie%20data%20analysis/1.png" target="_blank"><img src="https://github.com/rizsocial/Data-Analysis/raw/main/Python%20Data%20Analysis/IMDb%20movie%20data%20analysis/1.png" width="200"></a>
+
 ## 2. COVID-19 data analysis with Python
 
 **Project description:**
