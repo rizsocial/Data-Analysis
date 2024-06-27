@@ -28,7 +28,10 @@ This project involves importing, cleaning, normalizing, and analyzing a dataset 
   - Month: Conduct a monthly analysis to identify peak periods.
  
 ![1](https://github.com/rizsocial/Data-Analysis/blob/main/SQL%20Projects/World%20Layoffs%20Dataset%20Analysis/2.png)
+
 ![5](https://github.com/rizsocial/Data-Analysis/blob/main/SQL%20Projects/World%20Layoffs%20Dataset%20Analysis/5.png]
+
 ![12](https://github.com/rizsocial/Data-Analysis/blob/main/SQL%20Projects/World%20Layoffs%20Dataset%20Analysis/12.png)
+
 ![14](https://github.com/rizsocial/Data-Analysis/blob/main/SQL%20Projects/World%20Layoffs%20Dataset%20Analysis/14.png)
 
