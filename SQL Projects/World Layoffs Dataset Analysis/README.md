@@ -1,4 +1,6 @@
 ## SQL Project: World Layoffs Dataset Analysis
+![View/download project](https://github.com/rizsocial/Data-Analysis/blob/main/SQL%20Projects/World%20Layoffs%20Dataset%20Analysis/Project.sql)
+
 ### Project Overview
 This project involves importing, cleaning, normalizing, and analyzing a dataset on global layoffs. The dataset, containing approximately 2300 rows, was imported into MySQL Workbench for thorough examination and manipulation.
 
