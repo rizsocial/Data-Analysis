@@ -1,12 +1,12 @@
 ## SQL Project: World Layoffs Dataset Analysis
-# Project Overview
+### Project Overview
 This project involves importing, cleaning, normalizing, and analyzing a dataset on global layoffs. The dataset, containing approximately 2300 rows, was imported into MySQL Workbench for thorough examination and manipulation.
 
-# Data Cleaning:
+### Data Cleaning:
 
 - Identify and delete duplicate rows to ensure data integrity.
 - Normalize the data by performing the following tasks:
--- Trim leading and trailing whitespace from all columns.
+- - Trim leading and trailing whitespace from all columns.
 Correct misspelled categorical values.
 Remove extraneous characters (e.g., dots) from the end of column values.
 Convert dates stored as text into proper date format using STR_TO_DATE.
