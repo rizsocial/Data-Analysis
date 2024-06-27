@@ -6,12 +6,12 @@ This project involves importing, cleaning, normalizing, and analyzing a dataset 
 
 - Identify and delete duplicate rows to ensure data integrity.
 - Normalize the data by performing the following tasks:
- - Trim leading and trailing whitespace from all columns.
- - Correct misspelled categorical values.
- - Remove extraneous characters (e.g., dots) from the end of column values.
- - Convert dates stored as text into proper date format using STR_TO_DATE.
- - Replace null and blank values with appropriate defaults or delete them if necessary.
- - Remove any entire columns deemed unnecessary for analysis.
+  - Trim leading and trailing whitespace from all columns.
+  - Correct misspelled categorical values.
+  - Remove extraneous characters (e.g., dots) from the end of column values.
+  - Convert dates stored as text into proper date format using STR_TO_DATE.
+  - Replace null and blank values with appropriate defaults or delete them if necessary.
+  - Remove any entire columns deemed unnecessary for analysis.
 
 ### Exploratory Data Analysis (EDA)
 
